@@ -1,0 +1,105 @@
+.version.images /* version checker */
+{
+	color: #000011;
+	background-color: #2CDCE4;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 1143px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 583px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu165-4
+{
+	margin-right: -10000px;
+	margin-top: 62px;
+	width: 57.3%;
+	margin-left: 2.09%;
+}
+
+#u165-4
+{
+	z-index: 5;
+	min-height: 35px;
+	background-color: transparent;
+	position: relative;
+	width: 22%;
+	margin-left: 26.19%;
+}
+
+#u129
+{
+	z-index: 4;
+	width: 550px;
+	height: 413px;
+	background-color: transparent;
+	margin-top: 51px;
+	position: relative;
+}
+
+#U132_animation
+{
+	width: 550px;
+	height: 413px;
+	border: none;
+}
+
+#u115
+{
+	z-index: 2;
+	width: 550px;
+	height: 560px;
+	background-color: transparent;
+	margin-top: 22px;
+	position: relative;
+}
+
+#U118_animation
+{
+	width: 550px;
+	height: 560px;
+	border: none;
+}
+
+#u122
+{
+	z-index: 3;
+	width: 302px;
+	height: 400px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 383px;
+	left: 63.44%;
+}
+
+#U125_animation
+{
+	width: 302px;
+	height: 400px;
+	border: none;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+	padding-bottom: 282px;
+}
+
+
